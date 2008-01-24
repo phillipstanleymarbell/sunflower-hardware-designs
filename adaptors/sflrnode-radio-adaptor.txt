@@ -1,0 +1,13 @@
+B1		
+C1	1uF	
+C2	1uF	
+C3	1uF	
+D1		
+D2		
+D3		
+J1		
+J2	XBee module	
+J3	USB_MINI_B	
+J4		
+R1	100k	
+U1	MAX1555	
